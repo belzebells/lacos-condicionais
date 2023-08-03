@@ -1,2 +1,2 @@
 # lacos-condicionais
- exercícios de laços condicionais, if, else, else if. 
+ exercícios de laços condicionais, if, switch / else, else if. 
